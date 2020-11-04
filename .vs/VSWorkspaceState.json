@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\APIs",
+    "\\src\\components",
+    "\\src\\hooks"
+  ],
+  "SelectedNode": "\\src\\hooks\\useVideos.js",
+  "PreviewInSolutionExplorer": false
+}
